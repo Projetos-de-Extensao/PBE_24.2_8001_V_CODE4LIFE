@@ -6,19 +6,21 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Bola na Rede
 
-**Número do Grupo**: XX<br>
+**Code4Life**: XX<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
 | 202402627309  | Bruno Bittencourt Chequer |
+| 202402627279 |  Raí Lamper de Avila |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Steaming de Esporte Amadores
+Uma plataforma que transmite competições e torneios de esportes amadores e ligas locais. Os usuários poderiam comprar ingressos para eventos únicos ou assinar para acessar uma biblioteca de performances gravadas.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.

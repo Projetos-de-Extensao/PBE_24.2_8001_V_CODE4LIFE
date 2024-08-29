@@ -9,7 +9,6 @@ Número do Grupo:5
 | 202402627309  | Bruno Bittencourt Chequer |
 | 202402627279 |  Raí Lamper de Avila |
 | 202401001007 |  Tiago Abdalla Ramos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
 Steaming de Esporte Amadores

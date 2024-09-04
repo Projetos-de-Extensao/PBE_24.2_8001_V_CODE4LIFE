@@ -16,12 +16,19 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 ### Roteiro
 
 1-Você pode nos contar um pouco sobre o que sua empresa faz?
+
 2-Como funcionava o sistema anterior para streaming de futebol amador?
+
 3-Você já usou alguma aplicação semelhante antes de adotar a atual?
+
 4-Teve algum problema com a aplicação anterior? Se sim, quais?
+
 5-O que você acha de uma aplicação que integrasse mais recursos para os usuários e organizadores de eventos?
+
 6-Para você, qual seria o sistema ideal para streaming de futebol amador?
+
 7-Você gostaria de poder se cadastrar e gerenciar equipes e eventos de forma mais intuitiva?
+
 8-Você gostaria que as informações sobre as partidas, como placar e destaques, fossem atualizadas em tempo real?
 
 
@@ -43,7 +50,7 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 
 |Data|Horário de inicio|Horário de fim |Descrição
 ----|-----|-----|---------|
-|04/09/24 | 13:40| 14:00 | Entrevista realizada via hangouts.|
+|04/09/24 | 13:40| 14:00 | Entrevista realizada via Discord.|
 
 <br>
 <br>
@@ -95,8 +102,8 @@ Através da aplicação da técnica, foi possível elicitar alguns requisitos im
 
 ## Autor(es)
 
-| Data | Versão | Descrição | Autor(es) |
+| Autor(es)| Data | Versão | Descrição |
 | -- | -- | -- | -- |
-|Raí Lamper | |DD/MM/YYYY | 1.0 | Criação do documento |
-|Raí Lamper | |DD/MM/YYYY | 2.0 | 	Adição da entrevista 1 |
-|Raí Lamper | |DD/MM/YYYY | 2.1 | Adição dos requisitos elicitados e conclusão 
+|Raí Lamper | DD/MM/YYYY | 1.0 | Criação do documento |
+|Raí Lamper | DD/MM/YYYY | 2.0 | 	Adição da entrevista 1 |
+|Raí Lamper | DD/MM/YYYY | 2.1 | Adição dos requisitos elicitados e conclusão |

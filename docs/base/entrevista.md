@@ -58,18 +58,19 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 |Nome do participante|Diálogo durante a apresentação dos projetos|
 |----|-------------|
 |Raí Lamper:| Você pode nos contar um pouco sobre o que sua empresa faz? |
-|Gabriel Matos:| Claro, nós somos uma plataforma que oferece streaming de jogos de futebol amador, permitindo que times pequenos e ligas locais transmitam suas partidas ao vivo para um público mais amplo. |
-|Raí Pedro:| Como funcionava o sistema anterior para streaming de futebol amador?|
-|Gabriel Matos:| O sistema anterior era bastante básico. Ele permitia apenas a transmissão dos jogos, mas não tinha recursos para interação com os espectadores ou ferramentas para gerenciar as ligas e os times.|
+|Gabriel Matos:| Claro, nós somos uma plataforma que oferece streaming de 
+esportes amadores, permitindo que times pequenos e ligas locais transmitam suas competições ao vivo para um público mais amplo. |
+|Raí Pedro:| Como funcionava o sistema anterior para streaming de esportes amadores?|
+|Gabriel Matos:| O sistema anterior era bastante básico. Ele permitia apenas a transmissão das competições, mas não tinha recursos para interação com os espectadores ou ferramentas para gerenciar as ligas e os times.|
 |Raí Lamper:| Você já usou alguma aplicação semelhante antes de adotar a atual?|
 |Gabriel Matos:| Sim, testamos algumas plataformas, mas elas não atendiam completamente às nossas necessidades, especialmente em termos de estabilidade e suporte técnico.|
 |Raí Lamper:| Teve algum problema com a aplicação anterior? Se sim, quais? |
 |Gabriel Matos:| Sim, tivemos vários problemas, incluindo quedas de transmissão, falta de suporte para diferentes formatos de vídeo e dificuldades na integração com as redes sociais.|
-|Raí Lamper:|  Para você, qual seria o sistema ideal para streaming de futebol amador?|
+|Raí Lamper:|  Para você, qual seria o sistema ideal para streaming de esportes amadores?|
 |Gabriel Matos:|  Um sistema que oferecesse alta qualidade de transmissão, fosse fácil de usar para os organizadores e desse aos fãs uma experiência imersiva, com acesso a estatísticas, replays, e interações sociais.|
 |Raí Lamper:| Você gostaria de poder se cadastrar e gerenciar equipes e eventos de forma mais intuitiva?|
 |Gabriel Matos:|  Sim, quanto mais simples e intuitivo, melhor. Precisamos de um sistema que qualquer pessoa possa usar, mesmo sem muita experiência técnica.|
-|Raí Lamper:|  Você gostaria que as informações sobre as partidas, como placar e destaques, fossem atualizadas em tempo real?
+|Raí Lamper:|  Você gostaria que as informações sobre as partidas, como pontuação e destaques, fossem atualizadas em tempo real?
 |Gabriel Matos:| Com certeza, isso é fundamental para manter os espectadores engajados e proporcionar uma experiência mais completa.|
 
 <br>

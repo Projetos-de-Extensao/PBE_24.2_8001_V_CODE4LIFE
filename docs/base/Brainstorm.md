@@ -20,104 +20,72 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ## Perguntas
  
 ### 1. Qual o objetivo principal da aplicação?
- 
-<p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
-</p>
- 
-<b>ZZZ</b> - A plataforma deve fornece...
- 
-<b>YYYY</b> - O objetivo da aplicação é....
- 
-<b>WWWW</b> - O principal objetivo da aplicação é a...
- 
-<b>KKKK</b> - A plataforma deve gerenciar...
-</p>
- 
----
- 
-### 2. Como será o processo para cadastrar um novo clientetorneio?
- 
-<p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>WWWW</b> - Com o usuário logado, ele deverá...
 
-<b>ZZZZ</b> - O cliente...
- 
-<b>KKK</b> - O cliente...
- 
+- **Tiago** - Transmitir eventos esportivos locais ao vivo.
+- **Bruno** - Gerar receita com assinaturas e vendas de ingressos.
+- **Rai** - Promover atletas amadores e incentivar o esporte na comunidade.
+
 ---
- 
+
+### 2. Como será o processo para cadastrar um novo cliente/torneio?
+
+- **Tiago** - Um formulário simples com dados básicos e opção de personalização do torneio.
+- Cadastro com opções de plano, tanto para assinantes quanto para organizadores.
+- **Bruno** - Um painel intuitivo para que organizadores criem seus torneios e eventos facilmente.
+
+---
+
 ### 3. Como será a forma de adicionar produtos?
- 
-<p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
-</p>
- 
-<p align = "justify">
-<b>YYYYY</b> - O produto tem...
-</p>
- 
-<b>ZZZZ</b> - O produto....
- 
-<b>XXXX</b> - O produto....
 
- 
+- **Tiago** - Produtos adicionados diretamente no painel de controle da plataforma.
+- **Bruno** - Configuração de pacotes de ingressos e planos de assinatura.
+- **Rai** - Produtos como ingressos e assinaturas com personalização de preço e disponibilidade.
+- **Tiago** - Opção de descontos e promoções no checkout.
+
 ---
- 
+
 ### 4. Outras perguntas pertinentes ao contexto
 
-<p align = "justify">
-<b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>ZZZ</b> - O cliente...
- 
----
- 
-### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
-<p align = "justify">
-<b>XXX</b> - O cliente....
-</p>
- 
-### 6. Quais informações seriam interessante para o cliente?
-<p align = "justify">
-   <b>XXX</b> - Informações...
-   
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
+- Como garantir a qualidade da transmissão ao vivo?
+- Qual será o valor dos ingressos e assinaturas?
+- Como engajar a comunidade local para acompanhar os eventos?
 
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
-   
-</p>
- 
+---
+
+### 5. Como seria a forma de o cliente adicionar produtos?
+
+- Através de um painel que permita personalizar e adicionar produtos com facilidade.
+
+---
+
+### 6. Quais informações seriam interessantes para o cliente?
+
+- **Tiago** - Estatísticas dos eventos e número de visualizações.
+- **Bruno** - Relatórios financeiros de vendas de ingressos e assinaturas.
+- **Rai** - Feedback e avaliação dos eventos pelos usuários.
+
+---
+
 ### Requisitos elicitados
- 
-|ID|Descrição|
-|----|-------------|
-|BS01| O cliente...|
-|BS02| O cliente...|
-|BS03| O cliente...|
-|BS04| O cliente...|
-|BS05| O cliente...|
-|BS06| O cliente...|
-|BS07| O cliente...|
-|BS08| O cliente...|
-|BS09| O cliente...|
-|BS10| O produto...|
-|BS11| O produto...|
-|BS12| O produto...|
-|BS13| O produto...|
-|BS14| O produto...|
-|BS15| O produto...|
- 
+
+| ID   | Descrição                                                         |
+|------|-------------------------------------------------------------------|
+| BS01 | Sistema de cadastro de clientes e torneios.                       |
+| BS02 | Painel para adicionar e personalizar produtos.                    |
+| BS03 | Transmissão ao vivo com alta qualidade.                           |
+| BS04 | Estatísticas e relatórios financeiros.                            |
+| BS05 | Sistema de avaliação e feedback dos eventos.                      |
+| BS06 | Funcionalidade de promoções e descontos nos ingressos.            |
+| BS07 | Engajamento da comunidade local através de divulgação.            |
+
+
 ## Conclusão
 <p align = "justify">
-Através da aplicação da técnica, foi possível elicitar alguns dos primeiros requisitos do projeto.
+A plataforma de streaming para esportes amadores tem como objetivo principal transmitir competições locais ao vivo, monetizando através da venda de ingressos e assinaturas. O cadastro de novos clientes e torneios será facilitado por um painel intuitivo, permitindo a personalização dos eventos. A adição de produtos, como ingressos, será feita diretamente no sistema, com a possibilidade de aplicar descontos e promoções.
+
+O foco será em garantir uma transmissão de alta qualidade, engajar a comunidade local e oferecer relatórios detalhados sobre estatísticas e vendas. A plataforma também contará com feedback dos usuários para melhorar a experiência e fomentar a prática de esportes na comunidade.
 </p>
+
 ## Referências Bibliográficas
  
 > BARBOSA, S. D. J; DA SILVA, B. S. Interação humano-computador. Elsevier, 2010.
@@ -126,4 +94,4 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 ## Autor(es)
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+| 04/09/2024 | 1.0 | Criação do documento | Tiago Abdalla , Rai e Bruno|

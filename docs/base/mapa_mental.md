@@ -20,13 +20,8 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
 ## Versão 1.0
  
 ### Mapa mental 1
- 
-[![Mapa mental Entrevista](../assets/Mapas_mentais/....png)](../assets/Mapas_mentais/...png)
- 
- 
-### Mapa mental 2
- 
-[![Mapa mental Brainstorm](../assets/Mapas_mentais/...png)](assets/Mapas_mentais/....png)
+MAPA MENTAL EQUIPE CODE4LIFE 
+https://www.mindmeister.com/app/map/3415432453
  
 ## Conclusão
  

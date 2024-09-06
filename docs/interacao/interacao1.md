@@ -14,15 +14,15 @@ title: Interação 1
 |Tarefa|Responsabilidade|
 |---|----|
 | Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| Matheus|
-| Criar issues no GitHub / ZenHub| Renan|
-| Configuração do grupo do Telegram(configurar bot).|Moacir|
+| Criar o repositório nos padrões (Organizar wiki).| Bruno|
+| Criar issues no GitHub / ZenHub| Bruno|
+| Configuração do grupo do Telegram(configurar bot).|Raí|
 | Estudar e escolher as metodologias.| Todos|
 | [Documento de visão](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Bruno|
+| [Mapas Mentais](https://github.com/xxx/xxx.md) |Bruno|
+| [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) |Thiago|
+|[Entrevistas](https://github.com/xxx/xxx.md) |Raí|
 |[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
 
 ## Sprint Retrospective/Review Meeting

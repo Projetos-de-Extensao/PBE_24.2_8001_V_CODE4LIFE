@@ -23,7 +23,7 @@ title: Interação 1
 | [Mapas Mentais](https://github.com/xxx/xxx.md) |Bruno|
 | [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) |Thiago|
 |[Entrevistas](https://github.com/xxx/xxx.md) |Raí|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+|[Prototipação.](https://github.com/xxx/xxx.md) |Todos|
 
 ## Sprint Retrospective/Review Meeting
 

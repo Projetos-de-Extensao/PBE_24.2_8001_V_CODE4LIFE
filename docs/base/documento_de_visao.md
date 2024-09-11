@@ -20,53 +20,39 @@ Dificuldade em gerenciar e organizar...
 
 ### Impactados
 
-Usuários....
+Usuários que desejam assisitr campeonatos e torneios de futebol amador; Ligas e times de futebol amador; omunidade e fãs do esporte.
 
 ### Consequência
 
-A criação de novos....
+A criação de novos jogadores e fãs de futebol e divulgaçãa e incentivo ao esporte.
 
 ### Solução
 
-Utilizar a aplicação que será desenvolvida visando resolver...
+Utilizar a aplicação que será desenvolvida visando obter sucesso na disciplina de Projeto Backend e se possível chegar o mais próximo possível de um exemplo real de Streaming.
 
 ## Objetivos
 
 <p align = "justify">
-O objetivo da equipe de desenvolvimento é fornecer...
+O objetivo da equipe de desenvolvimento é fornecer uma plataforma de streaming similar a uma real, que atenda os requisitos do mercado.
 </p>
 
-## Descrição do Usuário 
 
-<p align = "justify">
-Os usuários serão....
-</p>
 
 ## Recursos do produto
 
 ### Conta
 
 <p align = "justify">
-O cliente poderá realizar seu cadastro....
+O cliente poderá realizar seu cadastro e login assim que acessar a plataforma.
 </p>
 
-### Loja
+### Categorias
 
 <p align = "justify">
-O cliente poderá cadastrar uma loja única....
+O cliente poderá selecionar categorias, como tipo de torneio que deseja assistir.
 </p>
 
-### Produto
 
-<p align = "justify">
-O cliente poderá cadastrar....
-</p>
-
-### Pesquisa sobre Lojas
-
-<p align = "justify">
-O cliente poderá pesquisar...
-</p>
 
 ## Restrições
 

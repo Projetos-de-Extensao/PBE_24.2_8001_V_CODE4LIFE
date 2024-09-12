@@ -20,45 +20,62 @@ Dificuldade em gerenciar e organizar...
 
 ### Impactados
 
-Usuários que desejam assisitr campeonatos e torneios de futebol amador; Ligas e times de futebol amador; omunidade e fãs do esporte.
+Público-Alvo Principal:
+Atletas amadores: Terão uma plataforma para expor seu talento e ganhar visibilidade.
+Clubes e ligas de futebol amador: Poderão promover seus torneios e competições para uma audiência maior.
+Fãs de futebol: Ganharão acesso a conteúdo exclusivo de torneios e competições locais, que muitas vezes não recebem cobertura midiática.
+
+Impactados Secundários:
+Comunidade local: A plataforma ajuda a conectar os jogadores e as ligas amadoras com seus seguidores, fortalecendo os laços comunitários.
+Anunciantes e patrocinadores: Empresas locais poderão apoiar times e eventos, associando suas marcas ao futebol amador e criando engajamento com o público.
 
 ### Consequência
 
-A criação de novos jogadores e fãs de futebol e divulgaçãa e incentivo ao esporte.
+Maior visibilidade do futebol amador: Jogadores, equipes e ligas terão maior exposição, aumentando suas chances de patrocínio.
+Inclusão e engajamento comunitário: A plataforma será uma ponte entre jogadores e torcedores locais, fortalecendo o espírito esportivo.
+Promoção da saúde e do esporte: A popularização das competições pode incentivar a prática esportiva.
+Oportunidade de monetização: Geração de receita através de publicidade, patrocínios e assinaturas premium.
 
 ### Solução
 
-Utilizar a aplicação que será desenvolvida visando obter sucesso na disciplina de Projeto Backend e se possível chegar o mais próximo possível de um exemplo real de Streaming.
+Plataforma acessível: Qualquer pessoa pode assistir aos torneios, com transmissões gratuitas e/ou premium.
+Interação ao vivo: Ferramentas de bate-papo e engajamento em tempo real durante as transmissões, criando uma experiência mais imersiva.
+Perfis de jogadores e equipes: Jogadores amadores poderão criar perfis com suas estatísticas, conquistas e história no futebol.
+Conteúdo sob demanda: Jogos gravados disponíveis para visualização posterior, além de destaques e melhores momentos.
+Sistema de votação e enquetes: Fãs poderão votar no melhor jogador ou equipe da partida e participar de enquetes interativas.
 
 ## Objetivos
 
 <p align = "justify">
-O objetivo da equipe de desenvolvimento é fornecer uma plataforma de streaming similar a uma real, que atenda os requisitos do mercado.
+O projeto visa criar uma plataforma de streaming online dedicada à transmissão de torneios e campeonatos de futebol amador, com o objetivo de promover entretenimento acessível ao público, divulgar o esporte e atletas amadores e engajar e movimentar a comunidade de fãs e praticantes do futebol amador.
 </p>
 
 
 
 ## Recursos do produto
 
-### Conta
+ Básicos:
+Cadastro de usuários: Criação de contas de usuário para que jogadores, fãs e organizadores possam se registrar.
+Login/Senha e recuperação de conta.
+Transmissão ao vivo: Acesso a eventos em tempo real, com opções de qualidade de vídeo ajustáveis.
+Histórico de partidas: Biblioteca de jogos passados para visualização a qualquer momento.
+Chat ao vivo durante transmissões: Ferramenta de interação em tempo real entre fãs e jogadores.
 
-<p align = "justify">
-O cliente poderá realizar seu cadastro e login assim que acessar a plataforma.
-</p>
+Intermediários:
+Perfis de jogadores e times: Cada jogador e equipe pode ter um perfil completo com dados, histórico de jogos, vídeos de melhores momentos e conquistas.
+Rankings e estatísticas: Classificação de equipes e jogadores com base no desempenho nos torneios transmitidos.
+Agenda de eventos: Calendário com próximos jogos e torneios.
 
-### Categorias
-
-<p align = "justify">
-O cliente poderá selecionar categorias, como tipo de torneio que deseja assistir.
-</p>
-
+Recursos Criativos:
+Enquetes ao vivo e votação de melhores jogadores: Ferramentas de engajamento para que os espectadores possam participar ativamente das transmissões.
+Patrocínio ao vivo: Inserção de anúncios dinâmicos durante os jogos, de marcas locais apoiando as ligas.
 
 
 ## Restrições
 
-<p align = "justify">
-A aplicação não será responsável...
-</p>
+Jogos profissionais ou de ligas maiores
+Marketplace para compra de ingressos físicos
+Suporte a múltiplos esportes
 
 ## Referências Bibliográficas
 

@@ -17,7 +17,7 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 
 1-Você pode nos contar um pouco sobre o que sua empresa faz?
 
-2-Como funcionava o sistema anterior para streaming de esportes amadores?
+2-Como funcionava o sistema anterior para streaming de futebol?
 
 3-Você já usou alguma aplicação semelhante antes de adotar a atual?
 
@@ -25,7 +25,7 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 
 5-O que você acha de uma aplicação que integrasse mais recursos para os usuários e organizadores de eventos?
 
-6-Para você, qual seria o sistema ideal para streaming de esportes amadores?
+6-Para você, qual seria o sistema ideal para streaming de futebol?
 
 7-Você gostaria de poder se cadastrar e gerenciar equipes e eventos de forma mais intuitiva?
 
@@ -59,14 +59,14 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 |----|-------------|
 |Raí Lamper:| Você pode nos contar um pouco sobre o que sua empresa faz? |
 |Gabriel Matos:| Claro, nós somos uma plataforma que oferece streaming de 
-esportes amadores, permitindo que times pequenos e ligas locais transmitam suas competições ao vivo para um público mais amplo. |
-|Raí Pedro:| Como funcionava o sistema anterior para streaming de esportes amadores?|
+futebol, permitindo que times pequenos e ligas locais transmitam suas competições ao vivo para um público mais amplo. |
+|Raí Pedro:| Como funcionava o sistema anterior para streaming de futebol?|
 |Gabriel Matos:| O sistema anterior era bastante básico. Ele permitia apenas a transmissão das competições, mas não tinha recursos para interação com os espectadores ou ferramentas para gerenciar as ligas e os times.|
 |Raí Lamper:| Você já usou alguma aplicação semelhante antes de adotar a atual?|
 |Gabriel Matos:| Sim, testamos algumas plataformas, mas elas não atendiam completamente às nossas necessidades, especialmente em termos de estabilidade e suporte técnico.|
 |Raí Lamper:| Teve algum problema com a aplicação anterior? Se sim, quais? |
 |Gabriel Matos:| Sim, tivemos vários problemas, incluindo quedas de transmissão, falta de suporte para diferentes formatos de vídeo e dificuldades na integração com as redes sociais.|
-|Raí Lamper:|  Para você, qual seria o sistema ideal para streaming de esportes amadores?|
+|Raí Lamper:|  Para você, qual seria o sistema ideal para streaming de futebol?|
 |Gabriel Matos:|  Um sistema que oferecesse alta qualidade de transmissão, fosse fácil de usar para os organizadores e desse aos fãs uma experiência imersiva, com acesso a estatísticas, replays, e interações sociais.|
 |Raí Lamper:| Você gostaria de poder se cadastrar e gerenciar equipes e eventos de forma mais intuitiva?|
 |Gabriel Matos:|  Sim, quanto mais simples e intuitivo, melhor. Precisamos de um sistema que qualquer pessoa possa usar, mesmo sem muita experiência técnica.|
@@ -79,7 +79,7 @@ esportes amadores, permitindo que times pequenos e ligas locais transmitam suas 
  
 |ID|Descrição|
 |----|-------------|
-|REQ01|O sistema deve permitir a transmissão ao vivo de partidas de esportes amadores com alta qualidade.|
+|REQ01|O sistema deve permitir a transmissão ao vivo de partidas de futebol com alta qualidade.|
 |REQ02|O sistema deve fornecer ferramentas para gerenciar ligas, equipes e eventos de forma intuitiva.|
 |REQ03|O sistema deve permitir a integração com redes sociais para compartilhar conteúdos e resultados.|
 |REQ04|O sistema deve oferecer suporte técnico robusto para evitar quedas de transmissão e outros problemas técnicos.|
@@ -88,7 +88,7 @@ esportes amadores, permitindo que times pequenos e ligas locais transmitam suas 
 |REQ07|O sistema deve oferecer recursos de replay e estatísticas detalhadas durante e após as transmissões.|
 |REQ08|O sistema deve ser acessível para usuários com pouca experiência técnica.|
 |REQ09|	O sistema deve oferecer suporte para diferentes formatos de vídeo, garantindo compatibilidade com diversas plataformas de streaming.|
-|REQ10|O sistema deve permitir a criação e gestão de campeonatos de esportes amadores, incluindo a configuração de tabelas, rodadas e classificação automática.|
+|REQ10|O sistema deve permitir a criação e gestão de campeonatos de futebol, incluindo a configuração de tabelas, rodadas e classificação automática.|
 
 
 ## Conclusão

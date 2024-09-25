@@ -21,7 +21,7 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ### Mapa mental 1
 MAPA MENTAL EQUIPE CODE4LIFE 
-https://www.mindmeister.com/app/map/3415432453
+https://mm.tt/app/map/3415432453?t=VuUmkYKC4K
  
 ## Conclusão
  

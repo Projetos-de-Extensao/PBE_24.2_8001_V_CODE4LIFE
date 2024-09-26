@@ -58,8 +58,7 @@ Para esta entrevista, optamos por seguir um modelo de entrevista aberta, onde ha
 |Nome do participante|Diálogo durante a apresentação dos projetos|
 |----|-------------|
 |Raí Lamper:| Você pode nos contar um pouco sobre o que sua empresa faz? |
-|Gabriel Matos:| Claro, nós somos uma plataforma que oferece streaming de 
-futebol, permitindo que times pequenos e ligas locais transmitam suas competições ao vivo para um público mais amplo. |
+|Gabriel Matos:| Claro, nós somos uma plataforma que oferece streaming de futebol, permitindo que times pequenos e ligas locais transmitam suas competições ao vivo para um público mais amplo. |
 |Raí Pedro:| Como funcionava o sistema anterior para streaming de futebol?|
 |Gabriel Matos:| O sistema anterior era bastante básico. Ele permitia apenas a transmissão das competições, mas não tinha recursos para interação com os espectadores ou ferramentas para gerenciar as ligas e os times.|
 |Raí Lamper:| Você já usou alguma aplicação semelhante antes de adotar a atual?|

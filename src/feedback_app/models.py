@@ -15,6 +15,6 @@ class Feedback(models.Model):
     dataHoraEnvio = models.DateTimeField(default=timezone.now)
 
     def __str__(self):
-        return (f"Feedback(id={self.id}, usuarioId={self.usuario.id}, produtoId={self.produtoId}, "
-                f"texto='{self.texto}', tipo='{self.tipo}', dataHoraEnvio={self.dataHoraEnvio})")
+        return (f"Feedback(id={self.id}, usuarioId={self.usuario.id}, "
+                f"texto='{self.texto}', tipo='{self.feedback_type}', dataHoraEnvio={self.dataHoraEnvio})")
 

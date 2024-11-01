@@ -21,3 +21,4 @@ class Convite(models.Model):
     def __str__(self):
         return (f"Convite(id={self.id}, link='{self.link}', dataCriacao={self.dataCriacao}, "
                 f"validade={self.validade}, estado='{self.estado}', limiteConvites={self.limiteConvites})")
+                

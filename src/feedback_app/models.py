@@ -3,10 +3,15 @@ from django.utils import timezone
 from django.contrib.auth.models import User  
 
 class Feedback(models.Model):
+    FEEDBACK_TYPES_CHOICE = [
+        ('RECLAME', 'Reclamação'),
+        ('SUGESTA', 'Sugestão'),
+        ('ELOGIO', 'Elogio'),        
+    ]
+
     usuario = models.ForeignKey(User, on_delete=models.CASCADE)
-    produtoId = models.IntegerField() 
     texto = models.TextField()
-    tipo = models.CharField(max_length=50)
+    feedback_type = models.CharField(max_length=10, choices=FEEDBACK_TYPES_CHOICE, default='RECLAME')
     dataHoraEnvio = models.DateTimeField(default=timezone.now)
 
     def __str__(self):

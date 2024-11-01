@@ -1,23 +1,38 @@
 from django.db import models
-from django.contrib.auth.models import User
+from django.contrib.auth.models import AbstractBaseUser
 
-class Content(models.Model):
-    CONTENT_TYPES = [
-        ('audio', 'Audio'),
-        ('video', 'Video'),
-    ]
+class Usuario(AbstractBaseUser):
+    nome = models.CharField(max_length=255)
+    email = models.EmailField(unique=True)
+    senha = models.CharField(max_length=128)
+    autenticado = models.BooleanField(default=False)
 
-    title = models.CharField(max_length=255)
-    description = models.TextField()
-    file_url = models.URLField()
-    thumbnail_url = models.URLField(blank=True, null=True)
-    content_type = models.CharField(max_length=10, choices=CONTENT_TYPES)
-    upload_date = models.DateTimeField(auto_now_add=True)
-    views = models.IntegerField(default=0)
-    likes = models.IntegerField(default=0)
-    is_public = models.BooleanField(default=True)
-    status = models.CharField(max_length=20, default='published')
-    creator = models.ForeignKey(User, related_name='contents', on_delete=models.CASCADE)
+    USERNAME_FIELD = 'email'  
+
+    def autenticar(self, senha):
+        """Verifica se a senha está correta para autenticar o usuário."""
+        if self.senha == senha:
+            self.autenticado = True
+            self.save()  
+            return True
+        else:
+            self.autenticado = False
+            self.save()
+            return False
 
     def __str__(self):
-        return self.title
+        return f"Usuário(id={self.id}, nome='{self.nome}', email='{self.email}', autenticado={self.autenticado})"
+
+class Content(models.Model):
+    titulo = models.CharField(max_length=255)
+    descricao = models.TextField()
+
+    def __str__(self):
+        return self.titulo
+
+
+
+
+
+    
+    

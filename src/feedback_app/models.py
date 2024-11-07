@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 
 class Feedback(models.Model):
     FEEDBACK_TYPES_CHOICE = [
+        ('----------','----------'),
         ('RECLAME', 'Reclamação'),
         ('SUGESTA', 'Sugestão'),
         ('ELOGIO', 'Elogio'),        
@@ -11,7 +12,7 @@ class Feedback(models.Model):
 
     usuario = models.ForeignKey(User, on_delete=models.CASCADE)
     texto = models.TextField()
-    feedback_type = models.CharField(max_length=10, choices=FEEDBACK_TYPES_CHOICE, default='RECLAME')
+    feedback_type = models.CharField(max_length=10, choices=FEEDBACK_TYPES_CHOICE, default='----------')
     dataHoraEnvio = models.DateTimeField(default=timezone.now)
 
     def __str__(self):

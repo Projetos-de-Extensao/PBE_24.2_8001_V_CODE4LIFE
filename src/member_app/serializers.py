@@ -4,4 +4,4 @@ from .models import Convite
 class ConviteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Convite
-        fields = '__all__'
+        fields = ['id', 'email']

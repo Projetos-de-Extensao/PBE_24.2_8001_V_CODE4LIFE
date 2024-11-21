@@ -2,6 +2,7 @@ from django.db import models
 from django.utils import timezone
 from datetime import timedelta
 from django.core.validators import MinValueValidator, MaxValueValidator
+from django.contrib.auth.models import User
 
 class Convite(models.Model):
     CONVITE_TYPES_CHOICE = [
@@ -9,6 +10,7 @@ class Convite(models.Model):
         ('ENVIADO', 'Enviado'),
         ('ACEITO', 'Aceito'),
     ]
+    usuario = models.ForeignKey(User, on_delete=models.CASCADE, null=True, blank=True)
     email = models.EmailField()
     link = models.URLField()
     dataCriacao = models.DateTimeField(default=timezone.now)
@@ -28,4 +30,6 @@ class Convite(models.Model):
             self.save()
             return True
         return False
+    def _str_(self):
+        return f"Convite(id={self.id}, email='{self.email}', link='{self.link}', estado='{self.convite_type}')"
                 

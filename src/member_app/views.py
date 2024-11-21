@@ -2,12 +2,18 @@ from rest_framework import viewsets, status
 from rest_framework.response import Response
 from rest_framework.decorators import action
 from django.core.mail import send_mail
+from rest_framework.permissions import IsAuthenticated
 from .models import Convite
 from .serializers import ConviteSerializer
 
 class ConviteViewSet(viewsets.ModelViewSet):
     queryset = Convite.objects.all()
     serializer_class = ConviteSerializer
+    permission_classes = [IsAuthenticated]
+    
+    def perform_create(self, serializer):
+        """Associa o convite ao usuário logado."""
+        serializer.save(usuario=self.request.user)
 
     @action(detail=True, methods=['post'])
     def aumentar(self, request, pk=None):

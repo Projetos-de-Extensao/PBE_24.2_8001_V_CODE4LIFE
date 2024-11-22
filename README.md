@@ -30,3 +30,5 @@ Adicione 1 ou mais vídeos com a execução do projeto final.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+link do canva da AP2: https://www.canva.com/design/DAGXJMx3zgg/fphE1CwWeU-D9RqC_dOXyQ/edit?utm_content=DAGXJMx3zgg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
